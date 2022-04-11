@@ -1,0 +1,12 @@
+[
+    {
+        "display_name": "USER",
+        "name": "USER",
+        "required": true
+    },
+    {
+        "display_name": "PASSWORD",
+        "name": "PASSWORD",
+        "required": true
+    }
+]

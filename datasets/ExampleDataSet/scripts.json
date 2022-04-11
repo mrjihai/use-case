@@ -1,0 +1,14 @@
+[
+    {
+        "script_name": "create user",
+        "url": "scripts/create_example_user.sql"
+    },
+    {
+        "script_name": "create Tables and load data",
+        "url": "scripts/create_foreign_tables.sql"
+    },
+    {
+        "script_name": "create views",
+        "url": "scripts/create_views.sql"
+    }
+]
